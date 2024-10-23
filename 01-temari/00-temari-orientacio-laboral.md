@@ -28,6 +28,6 @@ Alta a la xarxa i completar perfil estudiantil-laboral
 
 ## Entrevistes
 
-- Professional de sistemes i xarxes
+- [x] Professional de sistemes i xarxes
 - Professional ciberseguretat
 - Professional devOps
