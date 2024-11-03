@@ -1,6 +1,6 @@
 # Resum del protocol d’evacuació
 
-Els punts que us afecta són el 4, 5, 6 i 7
+Els punts que us afecta són el 4, 5, 6 i 7  
 Les funcions del delegat surten al punt 4
 
 ## Punts importants
