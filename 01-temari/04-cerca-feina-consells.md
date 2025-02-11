@@ -26,3 +26,6 @@
 
 ## SANTIAGO CRUZ
 [perfil Santiago Cruz Linkedin](https://www.linkedin.com/mwlite/profile/in/santiago-cruz?trk=feed_main-feed-card_feed-actor-image)
+
+## SOUS AL 2025
+[sous](https://www.glassdoor.es/Sueldos/administrador-de-sistemas-sueldo-SRCH_KO0,25.htm)
