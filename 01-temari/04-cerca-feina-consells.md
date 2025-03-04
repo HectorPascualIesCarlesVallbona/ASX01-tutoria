@@ -25,7 +25,7 @@
 [remote works](https://www.linkedin.com/posts/satyam-1410451b9_looking-for-remote-work-with-usd-payments-activity-7294072336155037697-MDQV)
 
 ## SANTIAGO CRUZ
-[perfil Santiago Cruz Linkedin](https://www.linkedin.com/mwlite/profile/in/santiago-cruz?trk=feed_main-feed-card_feed-actor-image)
+[perfil Santiago Cruz Linkedin](https://www.linkedin.com/in/santiago-cruz/)
 
 ## SOUS AL 2025
 [sous](https://www.glassdoor.es/Sueldos/administrador-de-sistemas-sueldo-SRCH_KO0,25.htm)
